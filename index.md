@@ -7,7 +7,6 @@ layout: default
     <div class="aside">
       <div class="info-card">
         <h1>CloudNote</h1>
-
       </div>
       <div id="particles-js"></div>
     </div>
