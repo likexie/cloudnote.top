@@ -1,22 +1,12 @@
----
-layout: default
----
 
 <body>
 
   <div class="index-wrapper">
     <div class="aside">
       <div class="info-card">
-<<<<<<< HEAD
-        <h1>CloudNotes</h1>
-=======
-        <h1>CloudNote</h1>
->>>>>>> e6ded5d6ed46772806eb65076457ee189d264a01
+        <h1>云笔记</h1>
       </div>
-      <div id="particles-js"></div>
     </div>
-
-
     <div class="index-content">
       <ul class="artical-list">
         {% for post in site.categories.blog %}
