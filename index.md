@@ -1,4 +1,4 @@
-# 云笔记CloudNote（cloudnote.top域名购买联系zhugxu@139.com）
+# 云笔记CloudNote
 
 ## Lua 知识
 
